@@ -87,8 +87,8 @@ Below is the data dictionary describing key variables used in the dataset of the
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/kenya-ev-charging-dashboard.git
-   cd kenya-ev-charging-dashboard
+git clone https://github.com/Ogombo-collins/EV-Stations-in-Kenya.git
+cd EV-Stations-in-Kenya
    ```
 
 2. **Create and activate a virtual environment:**
